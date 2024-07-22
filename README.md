@@ -41,4 +41,5 @@ Ensure you have the following installed on your system:
 Once the server is running, you can use the provided API endpoints to interact with the translation service.
 
 
+![backend_op_1](https://github.com/user-attachments/assets/560dc022-a5bb-4166-b274-105e469926a4)
 
